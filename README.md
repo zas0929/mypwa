@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Visit to app: https://zas0929.github.io/mypwa/
+
+## Deploy to Github pages
+https://github.com/gitname/react-gh-pages
+
 ## Available Scripts
 
 In the project directory, you can run:
